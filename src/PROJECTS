@@ -1,0 +1,26 @@
+* Polish the perlin 2d into a map generator and save as png
+* Pathfinder, able to change size and start, end position
+
+* fibonacci cubes: enter a number and see cubes drawn in different colors
+* make a spiral!!!
+
+* fibonacci heap implementation
+
+* menu system 
+
+
+SDL_Rect outline;
+SDL_Point gridSize = outline / cellSize;
+SDL_Point cellSize;
+SDL_Texture* texture;
+
+menu_object
+int x;
+int y;
+
+// static texture  
+// dynamic texture 
+
+// textbox - max text per line
+
+// rules for cutting line 1. between consonants if not last consonant, 2. 
